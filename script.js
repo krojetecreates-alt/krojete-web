@@ -1,0 +1,1 @@
+console.log("Krojete website loaded 💜");
